@@ -12,8 +12,8 @@ while (learning) {
 }
 ```
 
-B.Tech Mathematics & Computing @ RGIPT (2028) | Low-latency systems, quantitative finance, applied ML, backend & distributed systems, software engineering<br>
-Previously: Research Intern @ MANIT Bhopal | AI Intern @ Prodigal AI.
+B.Tech Mathematics & Computing @ RGIPT (2024-2028) 
+Prev: Research Intern @ MANIT Bhopal | AI Intern @ Prodigal AI.
 
 ## Core Focus
 
