@@ -12,13 +12,13 @@ while (learning) {
 }
 ```
 
-B.Tech Mathematics & Computing @ RGIPT (2024-2028) 
+B.Tech Mathematics & Computing @ RGIPT (2024-2028) <br>
 Prev: Research Intern @ MANIT Bhopal | AI Intern @ Prodigal AI.
 
 ## Core Focus
 
 - **Algorithmic Execution:** Low-latency C++ architecture, limit order books & matching engines, market data feed handling.
-- **Quantitative Modeling & ML:** Stochastic calculus (Itô's Lemma, GBM), graph algorithms & network flows, explainable ML for financial fraud detection.
+- **Quantitative Modeling & ML:** Graph algorithms & network flows, explainable ML for financial fraud detection.
 
 ## What I've Built
 
@@ -53,7 +53,7 @@ Behavioural fraud detection on highly imbalanced financial data · SMOTE class r
 - Amazon HackOn 6.0: Round 2, one of 30 teams selected
 - Akuna Capital 2026 Virtual Quantitative Trading Challenge (selected)
 - Certificate of Distinction, Semiconductor Summer School 2025 (CENSE, IISc Bengaluru)
-- IICPC Global CodeFest 2026: offline preliminaries
+- IICPC Global CodeFest 2026: offline prelims
 
 ## Stats
 
