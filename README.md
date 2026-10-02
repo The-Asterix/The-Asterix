@@ -12,8 +12,8 @@ while (learning) {
 }
 ```
 
-B.Tech Mathematics & Computing @ RGIPT (2024-2028) <br>
-Prev: Research Intern @ MANIT Bhopal | AI Intern @ Prodigal AI.
+`B.Tech Mathematics & Computing @ RGIPT (2024-2028)`<br>
+`Prev: Research Intern @ MANIT Bhopal` · `AI Intern @ Prodigal AI`
 
 ## Core Focus
 
