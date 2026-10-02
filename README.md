@@ -58,8 +58,12 @@ Behavioural fraud detection on highly imbalanced financial data · SMOTE class r
 ## Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=The-Asterix&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=The-Asterix&show_icons=true&theme=tokyonight&hide_border=true&hide=commits,contribs" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Asterix&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+  <img height="160" src="https://streak-stats.demolab.com/?user=The-Asterix&theme=tokyonight&hide_border=true" />
 </p>
 
 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/abhisoumyakapoor/) · [abhikap2005@gmail.com](mailto:abhikap2005@gmail.com)
