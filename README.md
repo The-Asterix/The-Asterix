@@ -1,7 +1,7 @@
 <h1 align="center">Abhisoumya Kapoor</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&width=520&lines=Math+%26+Computing+%40+RGIPT;C%2B%2B+systems+%7C+Quant+%7C+ML;Turning+stochastic+noise+into+signal" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&width=560&lines=C%2B%2B+Systems+Developer;Quantitative+Finance;Machine+Learning;Low-Latency+Infrastructure;Backend+%26+Distributed+Systems;Competitive+Programmer" alt="typing intro" />
 </p>
 
 ```cpp
@@ -12,28 +12,30 @@ while (learning) {
 }
 ```
 
-B.Tech Mathematics & Computing @ RGIPT (2028) · C++ low-latency systems, quantitative finance, applied ML.
-Previously: Research Intern @ MANIT Bhopal · AI Intern @ Prodigal AI.
+B.Tech Mathematics & Computing @ RGIPT (2028) | Low-latency systems, quantitative finance, applied ML, backend & distributed systems, software engineering<br>
+Previously: Research Intern @ MANIT Bhopal | AI Intern @ Prodigal AI.
+
+## Core Focus
+
+- **Algorithmic Execution:** Low-latency C++ architecture, limit order books & matching engines, market data feed handling.
+- **Quantitative Modeling & ML:** Stochastic calculus (Itô's Lemma, GBM), graph algorithms & network flows, explainable ML for financial fraud detection.
 
 ## What I've Built
 
-**Market Data Feed Handler** · `C++` `TCP` `Multithreading` `Catch2` `GitHub Actions`
-NASDAQ ITCH-style binary protocol + parser, multithreaded TCP pub-sub pipeline, in-memory limit order book.
-**1.19M msgs/sec**, **p99 parse latency 42 ns**. → [repo](https://github.com/The-Asterix/market-data-feed-handler)
+**[Market Data Feed Handler](https://github.com/The-Asterix/market-data-feed-handler)** &nbsp; `C++` `TCP` `Multithreading` `Catch2` `GitHub Actions`<br>
+NASDAQ ITCH-style binary protocol & parser · multithreaded TCP publisher-subscriber pipeline · lock-based producer-consumer queue decoupling network I/O from parsing · split/partial TCP read handling · in-memory limit order book with real-time best bid/ask · 15+ Catch2 unit tests · CI on every commit · **1.19M msgs/sec** · **p99 parse latency 42 ns**
 
-**Distributed Matching Engine Benchmarking Platform** · `Go` `Docker` `Redpanda` `Redis` `TimescaleDB`
-Stress-tests contestant trading engines with 1,000 concurrent bots. I owned the Docker sandboxing engine
-(CPU/memory limits, per-run port isolation) and the contestant API contract. **85 ms p99, 100% success at full load.**
-→ [repo](https://github.com/Snoob965/IICPC-SUMMER-TRADING-HACKATHON-2026-)
+**[Distributed Matching Engine Benchmarking Platform](https://github.com/Snoob965/IICPC-SUMMER-TRADING-HACKATHON-2026-)** &nbsp; `Go` `Docker` `Redpanda` `Redis` `TimescaleDB` `Next.js`<br>
+Co-developed for IICPC Summer Hackathon 2026 · 1,000 concurrent trading bots · Docker sandboxing of untrusted contestant code with strict CPU/memory limits · per-run port-pool isolation · contestant-facing API (order placement, cancellation, orderbook queries) · I owned the submission & sandboxing engine · **85 ms p99** · **100% success at full 1,000-bot load**
 
-**Explainable-CV-COVID19** · ResNet-18 classifier with Grad-CAM explainability. → [repo](https://github.com/The-Asterix/Explainable-CV-COVID19)
-**Financial Fraud Detection** · XGBoost + SMOTE + SHAP on imbalanced data. → [repo](https://github.com/The-Asterix/financial-fraud-detection-xgb)
+**[Financial Fraud Detection](https://github.com/The-Asterix/financial-fraud-detection-xgb)** &nbsp; `Python` `XGBoost` `SMOTE` `SHAP`<br>
+Behavioural fraud detection on highly imbalanced financial data · SMOTE class rebalancing · XGBoost classifier · SHAP-based explainability
 
-## Research
+## Recent Research & Engineering
 
-**A Comparative Study of Maximum Flow Algorithms under Varying Network Densities**
-Ford-Fulkerson vs Edmonds-Karp simulation; found a density threshold where execution time spikes ~40%.
-Presented at ICMOTA 2026, IIT (BHU) Varanasi.
+- **[ICMOTA 2026]:** Presented *A Comparative Study of Maximum Flow Algorithms under Varying Network Densities* at IIT (BHU) Varanasi: Ford-Fulkerson vs Edmonds-Karp, with a density threshold where runtime spikes ~40%.
+- **GPS-Denied Drone Navigation:** Engineered an autonomous navigation framework (occupancy grid mapping + A*/Dijkstra) at MANIT Bhopal, reaching ~95% accuracy in IMU-guided return-path reconstruction in simulation.
+- **ML Pipelines @ Prodigal AI:** Built scalable Python pipelines for data preprocessing, model experimentation and automated workflows, integrated with backend infrastructure.
 
 ## Stack
 
@@ -43,8 +45,8 @@ Presented at ICMOTA 2026, IIT (BHU) Varanasi.
 
 | Platform | Rating |
 |---|---|
-| Codeforces | Specialist (1439) |
-| LeetCode | 1651 (Top 18%) |
+| Codeforces | Specialist (1443) |
+| LeetCode | 1711 |
 
 ## Highlights
 
@@ -60,6 +62,4 @@ Presented at ICMOTA 2026, IIT (BHU) Varanasi.
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Asterix&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-*Currently into: stochastic calculus, order book microstructure, graph algorithms.*
-
-📫 [LinkedIn](https://www.linkedin.com/in/abhisoumyakapoor/) · [abhikap2005@gmail.com](mailto:abhikap2005@gmail.com)
+📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/abhisoumyakapoor/) · [abhikap2005@gmail.com](mailto:abhikap2005@gmail.com)
