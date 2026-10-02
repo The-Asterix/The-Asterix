@@ -1,7 +1,7 @@
 <h1 align="center">Abhisoumya Kapoor</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&width=560&lines=C%2B%2B+Systems+Developer;Quantitative+Finance;Machine+Learning;Low-Latency+Infrastructure;Backend+%26+Distributed+Systems;Competitive+Programmer" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&width=640&repeat=false&lines=C%2B%2B+Systems+%7C+Quant+%7C+ML+%7C+Low-Latency+Infrastructure" alt="typing intro" />
 </p>
 
 ```cpp
@@ -31,7 +31,7 @@ Co-developed for IICPC Summer Hackathon 2026 · 1,000 concurrent trading bots ·
 **[Financial Fraud Detection](https://github.com/The-Asterix/financial-fraud-detection-xgb)** &nbsp; `Python` `XGBoost` `SMOTE` `SHAP`<br>
 Behavioural fraud detection on highly imbalanced financial data · SMOTE class rebalancing · XGBoost classifier · SHAP-based explainability
 
-## Recent Research & Engineering
+## Research
 
 - **[ICMOTA 2026]:** Presented *A Comparative Study of Maximum Flow Algorithms under Varying Network Densities* at IIT (BHU) Varanasi: Ford-Fulkerson vs Edmonds-Karp, with a density threshold where runtime spikes ~40%.
 - **GPS-Denied Drone Navigation:** Engineered an autonomous navigation framework (occupancy grid mapping + A*/Dijkstra) at MANIT Bhopal, reaching ~95% accuracy in IMU-guided return-path reconstruction in simulation.
